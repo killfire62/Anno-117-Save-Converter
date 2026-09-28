@@ -1,5 +1,7 @@
 # Anno 117 Save Converter for Goldberg Emulator
 
+Built with Antigravity (Google's advanced AI coding assistant).
+
 This repository provides a simple tool to convert Anno 117 save files (`.a8s`) to the Goldberg emulator format (`.save`) and back.
 
 ## Features
@@ -17,7 +19,7 @@ This repository provides a simple tool to convert Anno 117 save files (`.a8s`) t
 ```bash
 # Install (optional) a virtual environment
 python -m venv venv
-venv\Scripts\activate
+venv\\Scripts\\activate
 
 # Run the GUI
 python anno117_save_converter.py
