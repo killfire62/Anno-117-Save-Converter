@@ -1,0 +1,28 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Build artifacts
+build/
+Dist/
+*.spec
+*.exe
+
+# Test data and temporary folders
+9f71a4b9-d989-41f3-8d67-f9e251196224/
+
+# IDE/editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
