@@ -12,7 +12,7 @@ venv/
 build/
 Dist/
 *.spec
-*.exe
+# *.exe
 
 # Test data and temporary folders
 9f71a4b9-d989-41f3-8d67-f9e251196224/
